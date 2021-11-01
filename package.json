@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dtulpa16/ATM_Node_Practice/issues"
   },
-  "homepage": "https://github.com/dtulpa16/ATM_Node_Practice#readme"
+  "homepage": "https://github.com/dtulpa16/ATM_Node_Practice#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }

@@ -18,8 +18,8 @@ function withdraw(withdrawAmount) {
 function deposit(depositAmount) {
   //TODO: deposit amount to current acct. balance
   // Log the current balance after deposit is made
-  balance -= withdrawAmount
-  alert(`Withdrawal successful! Your new balance is ${balance}`)
+  balance += withdrawAmount
+  alert(`Deposit successful! Your new balance is ${balance}`)
   return balance
 }
 
