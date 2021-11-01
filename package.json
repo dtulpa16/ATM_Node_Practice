@@ -1,0 +1,19 @@
+{
+  "name": "nodeatmstarter",
+  "version": "1.0.0",
+  "description": "atm application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtulpa16/ATM_Node_Practice.git"
+  },
+  "author": "daniel tulpa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtulpa16/ATM_Node_Practice/issues"
+  },
+  "homepage": "https://github.com/dtulpa16/ATM_Node_Practice#readme"
+}

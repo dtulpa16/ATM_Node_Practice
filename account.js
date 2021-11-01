@@ -3,5 +3,10 @@
 //! Remember to run npm init to create your Node application!
 
 //TODO: Create variables for account balance & account pin
-
+let pin = 0405
+let balance = 1000
 //Export these variables
+module.exports = {
+    pin: pin,
+    balance: balance
+}
